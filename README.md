@@ -2,8 +2,6 @@
 
 Esta landing page foi criada com base no template gratuito DevBook da 3rd Wave Media e adaptada para as necessidades específicas do cliente na área de psicologia.
 
-**Demo:** [Visualizar Demo](https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-5-book-ebook-landing-page-template-for-developers/)
-
 ## Template Original: DevBook
 
 O template "DevBook" é um template gratuito de landing page para livros e e-books, desenvolvido para autores e profissionais que desejam divulgar e vender seus materiais online.
