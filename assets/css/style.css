@@ -1,0 +1,13 @@
+.logotipo{
+    height:20vh;
+}
+
+.ebook-2{
+    width: 450px;
+}
+
+@media (max-width: 450px) {
+    .ebook-2{
+        width: 100%;
+    }
+}
